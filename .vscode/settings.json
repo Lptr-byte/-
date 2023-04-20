@@ -1,0 +1,20 @@
+{
+    "clangd.fallbackFlags": [
+        "-Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include\\c++\\x86_64-w64-mingw32"
+    ],
+    "files.associations": {
+        "chrono": "cpp",
+        "complex": "cpp",
+        "random": "cpp",
+        "valarray": "cpp",
+        "map": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "iosfwd": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp"
+    }
+}
